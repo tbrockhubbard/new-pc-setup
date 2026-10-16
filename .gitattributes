@@ -1,0 +1,4 @@
+# Windows scripts must keep Windows (CRLF) line endings or they can break.
+# -text tells Git to store and hand out these files exactly as they are.
+*.ps1 -text
+*.bat -text
