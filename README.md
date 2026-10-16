@@ -111,7 +111,7 @@ Limitation: per-user installs are only visible for users who are signed in when 
 
 ## How it was built
 
-I wrote this with help from ChatGPT, then tested and adjusted it on real client machines. Some packages needed different flags or scopes to install cleanly. AI got the first draft written fast; making it reliable was hands-on troubleshooting.
+I wrote this with help from Claude.ai, then tested and adjusted it on real client machines. Some packages needed different flags or scopes to install cleanly. AI got the first draft written fast; making it reliable was hands-on troubleshooting.
 
 ## License
 
